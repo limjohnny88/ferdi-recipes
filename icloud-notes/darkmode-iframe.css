@@ -1,0 +1,71 @@
+/* iCloud Notes - notes3 */
+body .cosk-icloud-logo {
+    -webkit-filter: invert(100%);
+    -moz-filter: invert(100%); 
+    -o-filter: invert(100%);
+    -ms-filter: invert(100%); 
+}
+body .main-view {
+    background: #000000;
+}
+body .folder-label {
+    color: #ffffff;
+}
+body .note-list-item-container .note-list-item-content .note-list-item-title {
+    color: #ffffff;
+}
+body .note-list-item-container .note-list-item-content .note-list-item-summary .note-list-item-date {
+    color: #b0b0b0;
+}
+/* Canvas could contain image, invert filter does not work well */
+/*
+body .notes-document-view {
+    -webkit-filter: invert(100%);
+    -moz-filter: invert(100%); 
+    -o-filter: invert(100%);
+    -ms-filter: invert(100%); 
+}*/
+
+/* iCloud Reminders - reminders2 */
+body .rm-toolbar.light .toolbar-view.application-toolbar-view {
+    background: #000000;
+}
+body .icloud-button.cw-button {
+    -webkit-filter: invert(100%);
+    -moz-filter: invert(100%); 
+    -o-filter: invert(100%);
+    -ms-filter: invert(100%); 
+}
+body .sidebar .scrollable-area {
+    background: #000000;
+}
+body .rm-list-menu-item .rm-list-menu-item-content {
+    background: #2c2b2b;
+}
+body .rm-list-menu-item .underlined-section .title-container {
+    color: #ffffff;
+}
+body .rm-list-header {
+    background: #000000;
+}
+body .rm-list-body {
+    -webkit-filter: invert(100%);
+    -moz-filter: invert(100%); 
+    -o-filter: invert(100%);
+    -ms-filter: invert(100%); 
+}
+body .rm-list-footer {
+    background: #000000;
+}
+
+
+/* iCloud Photos - photos */
+body .cw-collection-item-container .cw-scrolling-container {
+    background: #000000;
+    color: #ffffff;
+    /* To fix icon */
+}
+body .cw-collection-view .cw-collection-item-container {
+    background: #000000;
+    color: #ffffff;
+}

@@ -1,0 +1,10 @@
+{
+  "id": "icloud-notes",
+  "name": "iCloud Notes",
+  "version": "1.0.0",
+  "description": "iCloud Notes",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.icloud.com/notes"
+  }
+}
